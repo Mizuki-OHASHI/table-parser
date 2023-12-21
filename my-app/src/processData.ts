@@ -1,7 +1,6 @@
 import type { TableData } from "./tableParser";
 
 const processData = (data: TableData): TableData => {
-  console.log(data);
   return data.reduce((acc, cur) => {
     if (
       cur["教員"] === undefined ||
