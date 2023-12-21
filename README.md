@@ -47,3 +47,5 @@ yarn start
 　初年次ゼミナール理科
 　　　初年次ゼミナール理科	南部　将一	2022	1S2	2	G
 ```
+
+![sample](./my-app/public/sample.png)
